@@ -1,4 +1,4 @@
-#[Proximibee](http://proximibee.herokuapp.com)
+#[Proximibee-website](http://proximibee.herokuapp.com)
 
 ##What is 'Proximibee-website'?
 Proximibee-website is what we used to present our final project; a simple presentation of our Proximibee network in the form of a website.
